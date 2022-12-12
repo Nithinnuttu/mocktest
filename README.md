@@ -1,1 +1,2 @@
 # mocktest
+echo "hi"
